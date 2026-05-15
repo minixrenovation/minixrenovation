@@ -35,7 +35,7 @@ export default function ContactPage() {
                   </div>
                   <div>
                     <h4 style={{ fontSize: '1.125rem', fontWeight: 700, marginBottom: '0.25rem' }}>Phone</h4>
-                    <p style={{ color: 'var(--text-muted)' }}>03 9059 4078</p>
+                    <p style={{ color: 'var(--text-muted)' }}>0411 346 474</p>
                   </div>
                 </div>
 
@@ -45,7 +45,7 @@ export default function ContactPage() {
                   </div>
                   <div>
                     <h4 style={{ fontSize: '1.125rem', fontWeight: 700, marginBottom: '0.25rem' }}>Email</h4>
-                    <p style={{ color: 'var(--text-muted)' }}>info@minixhomes.com.au</p>
+                    <p style={{ color: 'var(--text-muted)' }}>Ap@minixrenovations.com.au</p>
                   </div>
                 </div>
 
@@ -55,7 +55,7 @@ export default function ContactPage() {
                   </div>
                   <div>
                     <h4 style={{ fontSize: '1.125rem', fontWeight: 700, marginBottom: '0.25rem' }}>Address</h4>
-                    <p style={{ color: 'var(--text-muted)' }}>Unit 1, 38 Palladium Cct, Clyde North VIC 3978</p>
+                    <p style={{ color: 'var(--text-muted)' }}>10 Jolimont Ave . Mulgrave VIC 3170</p>
                   </div>
                 </div>
               </div>
