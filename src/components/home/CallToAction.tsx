@@ -15,7 +15,7 @@ export default function CallToAction() {
           </div>
 
           <Link href="/contact" className="btn btn-light">
-            <MessageSquare size={20} /> Get a Free Quote
+            <MessageSquare size={20} /> Get a Quote
           </Link>
         </div>
       </div>

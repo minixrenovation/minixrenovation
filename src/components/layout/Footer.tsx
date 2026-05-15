@@ -45,7 +45,7 @@ export default function Footer() {
         </div>
 
         <div className="footer-bottom">
-          <p>© {new Date().getFullYear()} Minix Renovation. All rights reserved.</p>
+          <p>©2026 Minix Renovation</p>
         </div>
       </div>
     </footer>

@@ -33,21 +33,6 @@ export default function HeroSection() {
               View Our Work
             </Link>
           </div>
-
-          <div className="hero-stats scroll-reveal" style={{ animationDelay: '0.6s' }}>
-            <div className="stat-item">
-              <h4>15+</h4>
-              <p>Years Experience</p>
-            </div>
-            <div className="stat-item">
-              <h4>500+</h4>
-              <p>Projects Done</p>
-            </div>
-            <div className="stat-item">
-              <h4>100%</h4>
-              <p>Client Satisfaction</p>
-            </div>
-          </div>
         </div>
       </div>
     </section>
